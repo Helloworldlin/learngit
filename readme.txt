@@ -5,3 +5,5 @@ git tracks changes.
 creating a new branch is quick and simple.
 
 git test   from master
+
+git  test  fome mac
